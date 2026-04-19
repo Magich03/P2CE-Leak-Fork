@@ -4,11 +4,12 @@ GitHub does not allow upload the game build as a repository, so use the mirror l
 
 [Click Here To Download](https://github.com/Magich03/P2CE-Leak-Fork/releases/download/0.0.1/test.zip) (.zip) no password
 
-this leak is inposable to take down xd.
-btw P2CE delopent is wery slow  and i was baned from comunity ages ago behause i was one of pepoke who downloaded leak
-leak produck of this mod is like u use revo for maping but in revo u dont have guns and u have difrend parorama. more finish one in revo.
-aslo this build is realy unstabile and some times in some arias if u replay p2 vanila maps they can have colision problem for example some dor frame in undergrownd level.
+This leak is impossible to take down, xd.
+btw, P2CE development is very slow, and I was banned from the community ages ago because I was one of the people who downloaded the leak.
 
+The leak product of this mod is like using Revo for mapping, but in Revo you don't have guns and you have a different panorama — more finished than the one in Revo.
+
+Also, this build is really unstable, and sometimes in some areas, if you replay P2 vanilla maps, they can have collision problems — for example, some door frames in the underground level.
 
 
 
